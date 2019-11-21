@@ -19,3 +19,7 @@ The network is being trained using stochastic gradient descent and softmax as lo
 function, the batch size is initially set to 200, the learning rate to 0.01 and max epochs to 30 
 
 The parameters can be further tuned to acheive desired resutls keeping in mind to avoid overfitting.
+
+# Results
+
+The used parameters acheives 99.48% Validation Accuracy.
