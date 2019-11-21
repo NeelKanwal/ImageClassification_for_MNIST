@@ -14,6 +14,7 @@ Load the DigitDataset made of 28 × 28 pixels digit images.
 
 Simply open file.m and run it. It will load dataset from repository.
 
+# Network
 The network is being trained using stochastic gradient descent and softmax as loss
 function, the batch size is initially set to 200, the learning rate to 0.01 and max epochs to 30 
 
