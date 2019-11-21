@@ -9,6 +9,8 @@ Matlab r2017b or higher
 Image Processing Toolbox
 Sufficient Ram for deeper layers.
 
+# Dataset
+Load the DigitDataset made of 28 × 28 pixels digit images.
 
 Simply open file.m and run it. It will load dataset from repository.
 
