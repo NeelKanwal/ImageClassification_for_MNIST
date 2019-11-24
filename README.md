@@ -23,3 +23,6 @@ The parameters can be further tuned to acheive desired resutls keeping in mind t
 # Results
 
 The used parameters acheives 99.48% Validation Accuracy.
+
+#Detailed Report
+https://medium.com/@neelchawla/classification-of-handwritten-digits-using-matlab-cnn-37ad45c32057
